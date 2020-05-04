@@ -1,1 +1,1 @@
-BlazorAttempts
+BlazorAttempt
