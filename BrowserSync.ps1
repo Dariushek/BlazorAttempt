@@ -1,0 +1,1 @@
+browser-sync start --proxy https://localhost:5001/ --files '**/*.razor'

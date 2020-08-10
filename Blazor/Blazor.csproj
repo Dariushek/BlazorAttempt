@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\css\" />
+    <Watch Include="**\*.razor" />
   </ItemGroup>
 
 </Project>
